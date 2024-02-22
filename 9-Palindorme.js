@@ -14,6 +14,7 @@ var isPalindrome = function(x) {
     return true;
 };
 
+//--Tests--
 //true
 console.log(isPalindrome(412353214));
 //false
