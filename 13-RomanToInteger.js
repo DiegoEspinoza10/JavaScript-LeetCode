@@ -24,4 +24,10 @@ var romanToInt = function(s) {
     return total;
 };
 
+//--Tests--
+//3
+console.log(romanToInt("III"));
+//58
+console.log(romanToInt("LVIII"));
+//1994
 console.log(romanToInt("MCMXCIV"));
